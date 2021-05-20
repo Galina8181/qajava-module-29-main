@@ -1,0 +1,8 @@
+
+Ошибки , которые были найдены:
+
+Age: 10 expected: false result: true
+Age: 13 expected: true result: true
+Age: 19 expected: true result: false
+Age: 0 expected: false result: true
+Age: 21 expected: false result: false
